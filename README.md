@@ -1,2 +1,1 @@
-# MatGPT
-Matematikle eğlenin!
+1.2.1
