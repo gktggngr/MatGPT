@@ -1,2 +1,1 @@
-# MatGPT
-Fun with math!
+1.3.0
